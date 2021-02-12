@@ -236,7 +236,7 @@ a:hover{
 /* Footer*/
 
 footer{
-    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+    background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%),
     url(../img/laptop1.jpg);
     padding-bottom:0.1px;
 
