@@ -56,8 +56,8 @@ a:hover{
           justify-content: center;
           align-items: center;
           flex-direction: column;
-          color: #000;
-          background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+          color: #fda085;
+          
 }
 .hamburguer{
              position: fixed;
