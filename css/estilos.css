@@ -237,9 +237,10 @@ a:hover{
 /* Footer*/
 form{
 	width:25%;
-	margin: 150px;
-	padding: 30px;
-
+  margin: 20px;
+  padding: 10px;
+  background-color:#f2f2f2;
+  margin-top:100px;
 }
 label{
 	 font-size: 12px;
