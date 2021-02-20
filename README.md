@@ -1,2 +1,1 @@
-# prueba
-ventas de ropa
+# pc solution
