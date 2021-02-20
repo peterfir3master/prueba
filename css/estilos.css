@@ -232,6 +232,9 @@ a:hover{
      font-weight: 400;
 
 }
+
+
+/* Footer*/
 form{
 	width:25%;
 	margin: 150px;
@@ -280,8 +283,6 @@ input[type="submit"]:hover{
 
 }
 
-
-/* Footer*/
 
 footer{
     background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
